@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['628180725433', 'IBNU OFFICIAL🅥⁩', true],
+['6281807254833', 'IBNU OFFICIAL🅥⁩', true],
 ['6288272480997', 'IBNU - BOT', true]
 ]
-global.mods = ['628180725433']
-global.prems = ['628180725433']
+global.mods = ['6281807254833']
+global.prems = ['6281807254833']
 global.nomorbot = '6288272480997'
-global.nomorown = '628180725433'
+global.nomorown = '6281807254833'
 global.nomorown1 = '6288272480997'
-global.nomorown2 = '628180725433'
+global.nomorown2 = '6281807254833'
 global.nomorwa = '0'
 
 
@@ -78,7 +78,7 @@ global.lynk = ''
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/ibnu_ramadhani.1
+global.sig = 'https://instagram.com/ibnu_ramadhani.1'
 global.sgh = 'https://github.com/bisnissaya12' //github
 global.sgc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' //group whatsapp
 global.sdc = '-' //discord
@@ -89,7 +89,7 @@ global.pdana = '081807254833'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '081807254833
+global.ppulsa = '081807254833'
 global.ppulsa2 = '081807254833'
 global.psaweria = '081807254833'
 
